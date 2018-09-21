@@ -1,0 +1,35 @@
+{
+  "name": "react-bootstrap-starter-kit",
+  "version": "1.0.0",
+  "description": "The starter kit for NextJs ReactJs using Bootstrap 4",
+  "main": "src/index.jsx",
+  "scripts": {
+    "dev": "next src",
+    "build": "next build src",
+    "start": "next start src",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baoduy/React-Bootstrap-Starter-Kit.git"
+  },
+  "keywords": [
+    "ReactJs",
+    "Starter",
+    "kit",
+    "Bootstrap",
+    "4",
+    "NextJs"
+  ],
+  "author": "Duy Hoang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baoduy/React-Bootstrap-Starter-Kit/issues"
+  },
+  "homepage": "https://github.com/baoduy/React-Bootstrap-Starter-Kit#readme",
+  "dependencies": {
+    "next": "^7.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
